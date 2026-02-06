@@ -1,9 +1,9 @@
 # Programming Fundamentals Lab
 
 **Name: Abdul Rehman**  
-**Roll Number: XYZ-123**
+**Roll Number: K256542**
 
-## Lab Objectives
+# Lab Objectives
 - Learn basic C programming
 - Understand GitHub repositories
 - Practice version control
